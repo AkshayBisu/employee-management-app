@@ -1,16 +1,30 @@
-# new_task
+#  Employee Management App (Flutter)
 
-A new Flutter project.
+##  Overview
+This is a Flutter-based Employee Management Application that allows users to manage employee data efficiently using API integration.
 
-## Getting Started
+The app includes authentication, employee listing, and full CRUD (Create, Read, Update, Delete) operations with a clean and user-friendly UI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 Login with API authentication  
+- 📋 View employee list  
+- ➕ Add new employee  
+- ✏️ Edit employee details  
+- ❌ Delete employee with confirmation dialog  
+- 📄 Pagination for employee list  
+- 🔄 Real-time API integration  
+- 🎯 Form validation (Email, Password, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter (Dart)**
+- **GetX** (State Management & Navigation)
+- **REST API** (ReqRes)
+- **Material UI**
+
+
